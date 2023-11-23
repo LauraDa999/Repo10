@@ -37,3 +37,12 @@ arreglo_resultante = dejar_ceros_al_final(arreglo_con_ceros)
 print(f"Arreglo con ceros al final: {arreglo_resultante}")
 
 ```
+# 5. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
+Algorimos de sorting Son algoritmos que ordenan los arreglos de una forma determinada, dependiendo del algoritmo que se use. sorting. Bubble-Sort Los Bubble-Sort, es la forma en la cual se organizan las listas.
+
+- Explicando que cuando se organizan se empieza desde el primer elemento de la lista.
+- omparándose con el elemento de la derecha continuo a él, si es mayor entonces intercambian el la posición del índice; si el número no es mayor entonces se queda en esa posición.
+- Y empiezan a evaluar el siguiente elemento que está en la lista. de la misma forma que el anterior. Este proceso se hace hasta que se ordene la lista.
+De esta forma funciona.
+
+
